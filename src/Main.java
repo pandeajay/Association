@@ -8,6 +8,7 @@ import model.Klass;
 import model.Student;
 
 public class Main {
+	
 	static KlassManager klassManager = KlassManager.getInstance();
 	static StudentManager studentManager = StudentManager.getInstance();
 	static QueryManager queryManager = QueryManager.getInstance();
