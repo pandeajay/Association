@@ -46,7 +46,7 @@ public class QueryManager {
 			}
 
 			// print the results for pair
-			System.out.println(" For " + klassPair.getObject1() + "-" + klassPair.getObject2() + " students pair is {"
+			System.out.println(" For " + klassPair.getObject1() + "-" + klassPair.getObject2() + " : {"
 					+ findPairs(commonStudent) + "}");
 			System.out.println("");
 		}
