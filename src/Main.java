@@ -9,9 +9,9 @@ import model.Student;
 
 public class Main {
 	
-	static KlassManager klassManager = KlassManager.getInstance();
-	static StudentManager studentManager = StudentManager.getInstance();
-	static QueryManager queryManager = QueryManager.getInstance();
+	static KlassManager 	klassManager 	= KlassManager.getInstance();
+	static StudentManager 	studentManager	= StudentManager.getInstance();
+	static QueryManager 	queryManager 	= QueryManager.getInstance();
 
 	public static void main(String[] args) {
 		
