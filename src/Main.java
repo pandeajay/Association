@@ -13,8 +13,7 @@ public class Main {
 	static QueryManager queryManager = QueryManager.getInstance();
 
 	public static void main(String[] args) {
-		//do setup
-		
+		//do setup		
 		setup();
 
 		System.out.println();
