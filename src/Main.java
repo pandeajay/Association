@@ -29,6 +29,7 @@ public class Main {
 	
 	// set up with basic data present
 	private static void setup(){
+		
 		addKlasses();
 		addStudents();
 
